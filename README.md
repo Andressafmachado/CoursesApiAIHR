@@ -1,8 +1,8 @@
 # CoursesApiAIHR
 
 after clone the repo:
-run $dotnet restore
-to run $ dotnet run
+run: dotnet restore
+to run: dotnet run
 
 swagger: http://localhost:5197/swagger/index.html or http://localhost:7116/swagger/index.html;
 
@@ -11,9 +11,9 @@ build to connect with front end available here
 
 
 
-# usefull commands to restart the database
-$dotnet ef migrations add InitialCreate
-$ dotnet ef database update
+ *usefull commands to restart the database
+- dotnet ef migrations add InitialCreate
+- dotnet ef database update
 
 
 # Concerns:
