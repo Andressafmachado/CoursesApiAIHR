@@ -1,7 +1,9 @@
 # CoursesApiAIHR
 
 after clone the repo:
+
 run: dotnet restore
+
 to run: dotnet run
 
 swagger: http://localhost:5197/swagger/index.html or http://localhost:7116/swagger/index.html;
