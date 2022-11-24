@@ -23,6 +23,7 @@ usefull commands to restart the database:
 This is a simple API build for a POC (there is no security layer, no authentication)
 improvements before going to production:
 
+- add unit test 
 - move the endpoints from the program
 - create a service for the logic (move the calculation from the front)
 - property SelectedCourses should be type IEnumerable<Course>
